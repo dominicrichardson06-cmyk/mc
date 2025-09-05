@@ -1,0 +1,6 @@
+[
+  { "username": "account1@example.com", "auth": "microsoft" },
+  { "username": "account2@example.com", "auth": "microsoft" },
+  { "username": "account3@example.com", "auth": "microsoft" },
+  { "username": "account4@example.com", "auth": "microsoft" }
+]

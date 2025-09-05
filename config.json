@@ -1,0 +1,11 @@
+{
+  "host": "your.server.host",
+  "port": 25565,
+  "version": false,
+  "commandPrefix": ".",
+  "owner": "YourIngameName",
+  "autoReconnectSeconds": 15,
+  "followDistance": 2,
+  "loginStaggerMs": 2500,
+  "chatThrottleMs": 1200
+}
